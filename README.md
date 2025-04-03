@@ -2,7 +2,8 @@
 
 A feature-rich URL shortening service built with Laravel and Livewire, supporting user authentication, click tracking, and real-time updates.
 
-![Demo Screenshot](screenshot-url-here) <!-- Add screenshot later -->
+![image](https://github.com/user-attachments/assets/5192dba9-97bd-451d-85f4-f834da1f025b)
+
 
 ## Features
 
